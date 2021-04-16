@@ -1,2 +1,5 @@
-# trilhas-estudos-python
-Trilha de Estudos - Criada com Jovens de 13-15 anos
+# Trilhas/Guias de Estudos
+
+Os guias de estudos abaixo, foram montados junto com os participantes do projeto.
+
+- [Python](guias/python.md)
