@@ -3,7 +3,9 @@
 Os guias de estudos abaixo, foram montados junto com os participantes do projeto.
 
 - [Iniciando a Programação](guias/programador-iniciante.md)
-
+- [Impressão em 3D](guias/impressao-3d.md)
+- [Programação com Python](guias/programador-python.md)
+- [Programação com JavaScript](guias/programador-js.md)
 
 # Bibliografia
 

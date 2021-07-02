@@ -10,4 +10,10 @@ Variáveis armazenam informações, como números ou strings. Aprenda por que as
 
 Um Array armazena uma lista de vários itens, por exemplo, uma lista de mantimentos (uma matriz de strings) ou uma lista de idades (uma matriz de números). Comece a usar arrays e aprenda como editar e acessar os itens que os arrays armazenam.
 
+[Site Exemplo](https://google.com.br) | [Site Exemplo 2](https://google.com.br)
+
+## Objetos (Chave/Valor)
+
+Um objeto é um simples mapa de chave/valor que pode ter seus elementos iterados por ordem de inserção.
+
 [Site Exemplo](https://google.com.br) | [Site Exemplo 2](https://google.com.br) 
