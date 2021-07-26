@@ -1,20 +1,20 @@
 # Trilha de Aprendizado de Programação com Python
 
-Atualizado em: 26/07/2021
 Discussão:
-- [#3](https://github.com/codaqui/institucional-trilhas-estudos/issues/3)
+- [Atualização 1 - PR#6](https://github.com/codaqui/institucional-trilhas-estudos/pull/6)
 
 ## Apresentação
 
 Lorem Ipsum
 
-## Preparando o ambiente
-
-Lorem Ipsum
-
+Links:
 - [Introdução a Programação Python - Prof. MARCO VAZ](https://www.codingame.com/playgrounds/34774/introducao-a-programacao-python---prof--marco-vaz/apresentacao)
 - [WikiPython Brasil - Apresentação](https://wiki.python.org.br/PythonApresentacao)
 - [Apresentando a Linguagem de Programação Python](https://www.slideshare.net/MayogaX/apresentando-a-linguagem-de-programao-python)
+
+## Preparando o ambiente
+
+Lorem Ipsum
 
 ## Introdução à linguagem Python
 
