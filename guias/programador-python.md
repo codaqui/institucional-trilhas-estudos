@@ -5,7 +5,7 @@ Discussão:
 
 ## Apresentação
 
-Lorem Ipsum
+Lorem Ipsum Lorem Ipsum
 
 Links:
 - [Introdução a Programação Python - Prof. MARCO VAZ](https://www.codingame.com/playgrounds/34774/introducao-a-programacao-python---prof--marco-vaz/apresentacao)
