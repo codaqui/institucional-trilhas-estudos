@@ -126,15 +126,23 @@ Lorem Ipsum
 
 ## Manipulando Arquivos CSV e JSON
 
-Lorem Ipsum
+Links:
+
+- [importando dados com Python](https://imasters.com.br/back-end/data-science-importando-dados-com-python)
 
 ## Trabalhando com Data e Hora em Python
 
-Lorem Ipsum
+Links:
+
+- [Como trabalhar com data hora Python](https://vaiprogramar.com/como-trabalhar-com-data-hora-python-datetime/)
+- [Tipos básicos de data e hora](https://docs.python.org/pt-br/3/library/datetime.html)
+- [Trabalhando com datas e horas em Python](https://pythonhelp.wordpress.com/2012/07/10/trabalhando-com-datas-e-horas-em-python-datetime/)
 
 ## Testes com Python
 
-Lorem Ipsum
+Links:
+
+- [Testes em Python parte I](https://dev.to/womakerscode/testes-em-python-parte-1-introducao-43ei)
 
 ## Encerramento
 
