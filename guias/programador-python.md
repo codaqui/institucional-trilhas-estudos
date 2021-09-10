@@ -1,3 +1,4 @@
+
 # Trilha de Aprendizado de Programação com Python
 
 Discussão:
@@ -26,17 +27,36 @@ Links:
 
 Lorem Ipsum
 
+Links:
+- [Introdução - Python BR](https://python.org.br/introducao/)
+- [MeetUp Introdução ao Python - DevMedia](https://www.devmedia.com.br/meetup-introducao-ao-python/40245)
+
 ## Variáveis e Tipos de Dados em Python
 
 Lorem Ipsum
+
+Links:
+
+- [Tipos de Dados - Algoritimos em Python](https://algoritmosempython.com.br/cursos/programacao-python/tipos-basicos/)
+- [Variaveis, Operadores e Tipos de Dados - Cadernoscicomp](https://cadernoscicomp.com.br/tutorial/introducao-a-programacao-em-python-3/python-variaveis-operadores-e-tipos-de-dados/)
+- [Variaveis - USP](https://panda.ime.usp.br/cc110/static/cc110/03-variaveis.html)
 
 ## Estruturas Lógicas e Condicionais em Python
 
 Lorem Ipsum
 
+Links:
+- [Estruturas e Condicionais - #Treinamentos](https://www.hashtagtreinamentos.com/estruturas-condicionais-no-python)
+- [Operadores Lógicos - Caravela](https://pense-python.caravela.club/05-condicionais-e-recursividade/03-operadores-logicos.html)
+
 ## Estruturas de Repetição em Python
 
 Lorem Ipsum
+
+Links:
+- [Estruturas de Repetição - DevMedia](https://www.devmedia.com.br/estruturas-de-repeticao-em-python/41551)
+- [Estruturas de Repetição e Condicionais - TreinaWeb](https://www.treinaweb.com.br/blog/estruturas-condicionais-e-de-repeticao-no-python)
+- [Estruturas de Repetição - #Treinamentos](https://www.hashtagtreinamentos.com/estruturas-de-repeticao-python)
 
 ## Coleções Python
 
@@ -135,4 +155,4 @@ Lorem Ipsum
 
 # Bibliografia
 
-Inicialmente a trilha de conteúdos usadas foi do curso do Geek University, e posteriormente a [@melissarr](https://github.com/melissarr) fez um trabalho de agrupamento e pesquisa dessa trilha em diversos portais.
+Inicialmente a trilha de conteúdos usadas foi do curso do Geek University, e posteriormente a [@melissarr](https://github.com/melissarr) fez um trabalho de agrupamento e pesquisa dessa trilha em diversos portais. A partir desse trabalho de agrupamento e pesquisa da [@melissarr](https://github.com/melissarr), [@pedrocvaranda](https://github.com/pedrocvaranda) organizou os tópicos "Introdução à linguagem Python", "Variáveis e Tipos de Dados em Python", "Estruturas Lógicas e Condicionais em Python" e "Estruturas de Repetição em Python".
