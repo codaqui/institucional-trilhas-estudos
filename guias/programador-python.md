@@ -245,7 +245,7 @@ Lorem Ipsum
 
 Inicialmente a trilha de conteúdos usada foi do curso do Geek University, e posteriormente a [@melissarr](https://github.com/melissarr) fez um trabalho de agrupamento e pesquisa dessa trilha em diversos portais. A partir desse trabalho de agrupamento e pesquisa da [@melissarr](https://github.com/melissarr): 
 
-- [@pedrocvaranda](https://github.com/pedrocvaranda) organizou os tópicos "Introdução à linguagem Python", "Variáveis e Tipos de Dados em Python", "Estruturas Lógicas e Condicionais em Python" e "Estruturas de Repetição em Python".
+- [@pedrocvaranda](https://github.com/pedrocvaranda) organizou os tópicos "Introdução à linguagem Python", "Variáveis e Tipos de Dados em Python", "Estruturas Lógicas e Condicionais em Python", "Estruturas de Repetição em Python" e uma parte da "Bibliografia".
 - [@melissarr](https://github.com/melissarr) organizou os tópicos: "Debugando e Tratando erros", "Trabalhando com Módulos Python" e "Leitura e Escrita em Arquivos". 
 - [@kamisinha](https://github.com/kamisinha) organizou os tópicos: "Novidades do Python 3.8", "Novidades do Python 3.9" e "Novidades do Python 3.10". 
 - [@LuizFernado-TC](https://github.com/LuizFernando-TC) organizou os tópicos: "Iteradores e Geradores Python", "Encerramento", "Gerenciamento de Memória em Python" e "Checagem de Tipos em Python". 
