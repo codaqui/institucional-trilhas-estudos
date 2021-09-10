@@ -79,13 +79,27 @@ Lorem Ipsum
 
 Lorem Ipsum
 
+Lins:
+- [Erros de sintaxe (Syntax errors)](https://panda.ime.usp.br/panda/static/pensepy/Appendices/app_a.html)
+- [Entendendo melhor as mensagens de erro](https://pythonhelp.wordpress.com/2012/12/31/deu-erro-e-agora-o-que-eu-faco/)
+- [Tratamento de erros e exceções](https://cadernoscicomp.com.br/tutorial/introducao-a-programacao-em-python-3/tratamento-de-erros-e-excecoes/)
+
 ## Trabalhando com Módulos Python
 
 Lorem Ipsum
 
+Links:
+- [Como criar um módulo](https://www.pythonprogressivo.net/2018/07/import-Como-Criar-Importar-Usar-Modulo-Python-Curso.html)
+- [Importando módulos](https://cadernoscicomp.com.br/tutorial/introducao-a-programacao-em-python-3/modulos/)
+- [Módulos-Executando módulos como scripts](https://docs.python.org/pt-br/3/tutorial/modules.html)
+
 ## Leitura e Escrita em Arquivos
 
 Lorem Ipsum
+
+Links:
+- [Abrindo, fechando e lendo arquivos (Com exercícios)](https://panda.ime.usp.br/pensepy/static/pensepy/10-Arquivos/files.html)
+- [Como escrever e salvar arquivos JSON em Python](https://academiahopper.com.br/trabalhando-com-arquivos-em-python/)
 
 ## Iteradores e Geradores Python
 
@@ -155,4 +169,5 @@ Lorem Ipsum
 
 # Bibliografia
 
-Inicialmente a trilha de conteúdos usadas foi do curso do Geek University, e posteriormente a [@melissarr](https://github.com/melissarr) fez um trabalho de agrupamento e pesquisa dessa trilha em diversos portais. A partir desse trabalho de agrupamento e pesquisa da [@melissarr](https://github.com/melissarr), [@pedrocvaranda](https://github.com/pedrocvaranda) organizou os tópicos "Introdução à linguagem Python", "Variáveis e Tipos de Dados em Python", "Estruturas Lógicas e Condicionais em Python" e "Estruturas de Repetição em Python".
+- Inicialmente a trilha de conteúdos usadas foi do curso do Geek University, e posteriormente a [@melissarr](https://github.com/melissarr) fez um trabalho de agrupamento e pesquisa dessa trilha em diversos portais. A partir desse trabalho de agrupamento e pesquisa da [@melissarr](https://github.com/melissarr), [@pedrocvaranda](https://github.com/pedrocvaranda) organizou os tópicos "Introdução à linguagem Python", "Variáveis e Tipos de Dados em Python", "Estruturas Lógicas e Condicionais em Python" e "Estruturas de Repetição em Python".
+- [@melissarr](https://github.com/melissarr) organizou os tópicos: "Debugando e Tratando erros", "Trabalhando com Módulos Python" e "Leitura e Escrita em Arquivos".
