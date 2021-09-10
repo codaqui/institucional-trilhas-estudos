@@ -145,13 +145,31 @@ Lorem Ipsum
 
 Lorem Ipsum
 
+Links:
+
+- [Python 3.8 lançado com expressões de atribuição e mais] https://www.edivaldobrito.com.br/python-3-8-lancado-com-expressoes-de-atribuicao-e-mais/ 
+- [O que há de novo no Python 3.8] https://docs.python.org/pt-br/3/whatsnew/3.8.html
+- [What's new in Python 3.8?] https://deepsource.io/blog/python-3-8-whats-new/
+
+
 ## Novidades do Python 3.9
 
 Lorem Ipsum
 
+Links:
+- [O que há de novo no Python 3.9] https://docs.python.org/pt-br/3/whatsnew/index.html
+- [Atualizações do Python 3.9 explicadas com exemplos práticos de código] https://cibersistemas.pt/tecnologia/atualizacoes-do-python-3-9-explicadas-com-exemplos-praticos-de-codigo/
+- [Python 3.9 lançado com melhorias em multiprocessamento e novo analisador] https://www.edivaldobrito.com.br/python-3-9-lancado-com-melhorias-em-multiprocessamento-e-novo-analisador/
+
+
 ## Novidades do Python 3.10
 
 Lorem Ipsum
+
+Links:
+- [O que há de novo no Python 3.10] https://docs.python.org/pt-br/3.10/whatsnew/index.html
+- [What’s New in Python 3.10?] https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
+- [What’s new in Python 3.10] https://www.infoworld.com/article/3617460/whats-new-in-python-310.html
 
 
 # Projetos
