@@ -105,6 +105,13 @@ Links:
 
 Lorem Ipsum
 
+Links:
+
+- [Iterators e Generators em Python - Python Academy]( https://pythonacademy.com.br/blog/iterators-e-generators-em-python)
+- [Iteradores, iteráveis e geradores - ICHI.PRO]( https://ichi.pro/pt/iteradores-iteraveis-e-geradores-132206850510725)
+- [Diferença entre iteradores e geradores do Python - QA Stack]( https://qastack.com.br/programming/2776829/difference-between-pythons-generators-and-iterators)
+
+
 ## Decoradores em Python
 
 Lorem Ipsum
@@ -133,13 +140,31 @@ Lorem Ipsum
 
 Lorem Ipsum
 
+Links:
+
+- [Finalizando um script Python - QA Stack]( https://qastack.com.br/programming/73663/how-to-terminate-a-python-script)
+- [Parar/terminar um script Python - ti-exame.com]( https://www.ti-enxame.com/pt/python/como-pararterminar-um-script-python-de-execucao/1043433651/)
+
+
 ## Gerenciamento de Memória em Python
 
 Lorem Ipsum
 
+Links:
+
+-[Memória em Python - Agatetepê]( https://www.agatetepe.com.br/gerenciamento-de-memoria-python/)
+-[Gerenciamento de memória Python – Weekly-Geekly ES]( https://weekly-geekly-es.imtqy.com/articles/pt441568/index.html)
+
+
 ## Checagem de Tipos em Python
 
 Lorem Ipsum
+
+Links:
+
+-[Checando os tipos de variáveis em Python 3 - Hora de Codar]( https://www.horadecodar.com.br/2021/03/30/como-checar-o-tipo-de-uma-variavel-em-python-3/)
+-[Checagem de tipos no Python - gutierri]( https://medium.com/gutierri/checagem-de-tipos-no-python-1533fe1e786f)
+
 
 ## Novidades do Python 3.8
 
