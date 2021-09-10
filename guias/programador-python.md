@@ -152,8 +152,9 @@ Lorem Ipsum
 
 Links:
 
--[Memória em Python - Agatetepê]( https://www.agatetepe.com.br/gerenciamento-de-memoria-python/)
--[Gerenciamento de memória Python – Weekly-Geekly ES]( https://weekly-geekly-es.imtqy.com/articles/pt441568/index.html)
+- [Memória em Python - Agatetepê]( https://www.agatetepe.com.br/gerenciamento-de-memoria-python/)
+- [Gerenciamento de memória Python – Weekly-Geekly ES]( https://weekly-geekly-es.imtqy.com/articles/pt441568/index.html)
+
 
 
 ## Checagem de Tipos em Python
@@ -162,8 +163,9 @@ Lorem Ipsum
 
 Links:
 
--[Checando os tipos de variáveis em Python 3 - Hora de Codar]( https://www.horadecodar.com.br/2021/03/30/como-checar-o-tipo-de-uma-variavel-em-python-3/)
--[Checagem de tipos no Python - gutierri]( https://medium.com/gutierri/checagem-de-tipos-no-python-1533fe1e786f)
+- [Checando os tipos de variáveis em Python 3 - Hora de Codar]( https://www.horadecodar.com.br/2021/03/30/como-checar-o-tipo-de-uma-variavel-em-python-3/)
+- [Checagem de tipos no Python - gutierri]( https://medium.com/gutierri/checagem-de-tipos-no-python-1533fe1e786f)
+
 
 
 ## Novidades do Python 3.8
