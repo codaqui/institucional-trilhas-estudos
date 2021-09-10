@@ -62,18 +62,39 @@ Links:
 
 Lorem Ipsum
 
+Links:
+
+- [Coleções no Python](https://www.devmedia.com.br/colecoes-no-python-listas-tuplas-e-dicionarios/40678)
+- [Python sequências e coleções](https://www.phylos.net/2021-03-08/python-sequencias-e-colecoes/)
+
 ## Funções em Python
 
 Lorem Ipsum
+
+Links:
+
+- [Funções](https://algoritmosempython.com.br/cursos/programacao-python/funcoes/)
+- [Funções 2](https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html)
+- [Funções 3](https://www.dcc.ufrj.br/~fabiom/mab225/07func.pdf)
 
 ## Comprehensions em Python
 
 Lorem Ipsum
 
+Links:
+
+- [Comprehensions no Pyhton](https://pythonacademy.com.br/blog/list-comprehensions-no-python)
+- [Comprehension](https://pythonhelp.wordpress.com/2011/03/01/list-comprehension/)
+
 ## Expressões Lambdas e Funções Integradas
 
 Lorem Ipsum
 
+Links:
+
+- [Função Lambda](https://www.codingame.com/playgrounds/52499/programacao-python-intermediario---prof--marco-vaz/funcao-lambda)
+- [Funções Lambda em Python](https://www.hashtagtreinamentos.com/funcoes-lambda-python)
+- [Lambda](https://pythonhelp.wordpress.com/tag/lambda/)
 
 ## Debugando e Tratando erros
 
