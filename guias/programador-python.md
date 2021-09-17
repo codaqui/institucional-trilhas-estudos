@@ -22,6 +22,7 @@ Links:
 - [Configurando um ambiente de desenvolvimento Django](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/development_environment)
 - [Guia passo a passo de como preparar o ambiente Python utilizando Django](https://digitalinnovation.one/artigos/guia-de-passo-a-passo-de-como-preparar-o-ambiente-python-utilizando-django)
 - [Guia definitivo para organizar meu ambiente Python](https://medium.com/welcome-to-the-django/guia-definitivo-para-organizar-meu-ambiente-python-a16e2479b753)
+- [Flask no Replit](https://replit.com/talk/learn/Flask-Tutorial-Part-1-the-basics/26272)
 
 ## Introdução à linguagem Python
 
