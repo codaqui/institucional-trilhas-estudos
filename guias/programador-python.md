@@ -36,7 +36,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Tipos de Dados - Algoritimos em Python](https://algoritmosempython.com.br/cursos/programacao-python/tipos-basicos/)
 - [Variaveis, Operadores e Tipos de Dados - Cadernoscicomp](https://cadernoscicomp.com.br/tutorial/introducao-a-programacao-em-python-3/python-variaveis-operadores-e-tipos-de-dados/)
 - [Variaveis - USP](https://panda.ime.usp.br/cc110/static/cc110/03-variaveis.html)
@@ -63,7 +62,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Coleções no Python](https://www.devmedia.com.br/colecoes-no-python-listas-tuplas-e-dicionarios/40678)
 - [Python sequências e coleções](https://www.phylos.net/2021-03-08/python-sequencias-e-colecoes/)
 
@@ -72,7 +70,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Funções](https://algoritmosempython.com.br/cursos/programacao-python/funcoes/)
 - [Funções 2](https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html)
 - [Funções 3](https://www.dcc.ufrj.br/~fabiom/mab225/07func.pdf)
@@ -82,7 +79,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Comprehensions no Pyhton](https://pythonacademy.com.br/blog/list-comprehensions-no-python)
 - [Comprehension](https://pythonhelp.wordpress.com/2011/03/01/list-comprehension/)
 
@@ -91,7 +87,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Função Lambda](https://www.codingame.com/playgrounds/52499/programacao-python-intermediario---prof--marco-vaz/funcao-lambda)
 - [Funções Lambda em Python](https://www.hashtagtreinamentos.com/funcoes-lambda-python)
 - [Lambda](https://pythonhelp.wordpress.com/tag/lambda/)
@@ -100,7 +95,7 @@ Links:
 
 Lorem Ipsum
 
-Lins:
+Links:
 - [Erros de sintaxe (Syntax errors)](https://panda.ime.usp.br/panda/static/pensepy/Appendices/app_a.html)
 - [Entendendo melhor as mensagens de erro](https://pythonhelp.wordpress.com/2012/12/31/deu-erro-e-agora-o-que-eu-faco/)
 - [Tratamento de erros e exceções](https://cadernoscicomp.com.br/tutorial/introducao-a-programacao-em-python-3/tratamento-de-erros-e-excecoes/)
@@ -127,7 +122,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Iterators e Generators em Python - Python Academy]( https://pythonacademy.com.br/blog/iterators-e-generators-em-python)
 - [Iteradores, iteráveis e geradores - ICHI.PRO]( https://ichi.pro/pt/iteradores-iteraveis-e-geradores-132206850510725)
 - [Diferença entre iteradores e geradores do Python - QA Stack]( https://qastack.com.br/programming/2776829/difference-between-pythons-generators-and-iterators)
@@ -137,24 +131,35 @@ Links:
 
 Lorem Ipsum
 
+Links:
+- [Decoradores por Python Iluminado](https://pythoniluminado.netlify.app/decoradores)
+- [Decoradores por Python WIKI](https://wiki.python.org.br/Decoradores_Python_(Python_Decorators))
+- [Como funcionam os decoradores em Python?](https://pt.stackoverflow.com/questions/23628/como-funcionam-decoradores-em-python)
+
 ## Orientação a Objetos com Python
 
 Lorem Ipsum
 
+Links:
+- [Classes](https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html)
+- [Python Orientado a Objetos com Framework CherryPy](https://www.devmedia.com.br/python-orientado-a-objetos-com-o-framework-cherrypy/33489)
+- [Programação Orientada a Objetos com Python](https://wiki.python.org.br/ProgramacaoOrientadaObjetoPython)
+
 ## Herança e Polimorfismo
 
-Lorem Ipsum
+Links:
+- [Polimorfismo - O que é e como usar?](https://www.pythonprogressivo.net/2018/11/Polimorfismo-O-que-Como-Usar-Como-fazer.html)
+- [Entendendo o Super() do Python](https://medium.com/code-rocket-blog/entendendo-o-super-do-python-da17ee8d26ca)
+- [Conceitos de Polimorfismo em POO](https://www.devmedia.com.br/conceitos-e-exemplos-polimorfismo-programacao-orientada-a-objetos/18701)
 
 ## Manipulando Arquivos CSV e JSON
 
 Links:
-
 - [importando dados com Python](https://imasters.com.br/back-end/data-science-importando-dados-com-python)
 
 ## Trabalhando com Data e Hora em Python
 
 Links:
-
 - [Como trabalhar com data hora Python](https://vaiprogramar.com/como-trabalhar-com-data-hora-python-datetime/)
 - [Tipos básicos de data e hora](https://docs.python.org/pt-br/3/library/datetime.html)
 - [Trabalhando com datas e horas em Python](https://pythonhelp.wordpress.com/2012/07/10/trabalhando-com-datas-e-horas-em-python-datetime/)
@@ -162,7 +167,6 @@ Links:
 ## Testes com Python
 
 Links:
-
 - [Testes em Python parte I](https://dev.to/womakerscode/testes-em-python-parte-1-introducao-43ei)
 
 ## Encerramento
@@ -170,7 +174,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Finalizando um script Python - QA Stack]( https://qastack.com.br/programming/73663/how-to-terminate-a-python-script)
 - [Parar/terminar um script Python - ti-exame.com]( https://www.ti-enxame.com/pt/python/como-pararterminar-um-script-python-de-execucao/1043433651/)
 
@@ -180,7 +183,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Memória em Python - Agatetepê]( https://www.agatetepe.com.br/gerenciamento-de-memoria-python/)
 - [Gerenciamento de memória Python – Weekly-Geekly ES]( https://weekly-geekly-es.imtqy.com/articles/pt441568/index.html)
 
@@ -191,7 +193,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Checando os tipos de variáveis em Python 3 - Hora de Codar]( https://www.horadecodar.com.br/2021/03/30/como-checar-o-tipo-de-uma-variavel-em-python-3/)
 - [Checagem de tipos no Python - gutierri]( https://medium.com/gutierri/checagem-de-tipos-no-python-1533fe1e786f)
 
@@ -202,7 +203,6 @@ Links:
 Lorem Ipsum
 
 Links:
-
 - [Python 3.8 lançado com expressões de atribuição e mais](https://www.edivaldobrito.com.br/python-3-8-lancado-com-expressoes-de-atribuicao-e-mais/)
 - [O que há de novo no Python 3.8](https://docs.python.org/pt-br/3/whatsnew/3.8.html)
 - [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
