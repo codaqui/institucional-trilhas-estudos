@@ -5,18 +5,14 @@ Discussão:
 - [Atualização 1 - PR#6](https://github.com/codaqui/institucional-trilhas-estudos/pull/6)
 - [Atualização 2 - PR#7](https://github.com/codaqui/institucional-trilhas-estudos/pull/7)
 
-## Apresentação
-
-Lorem Ipsum Lorem Ipsum
+## 1 - Apresentação
 
 Links:
 - [Introdução a Programação Python - Prof. MARCO VAZ](https://www.codingame.com/playgrounds/34774/introducao-a-programacao-python---prof--marco-vaz/apresentacao)
 - [WikiPython Brasil - Apresentação](https://wiki.python.org.br/PythonApresentacao)
 - [Apresentando a Linguagem de Programação Python](https://www.slideshare.net/MayogaX/apresentando-a-linguagem-de-programao-python)
 
-## Preparando o ambiente
-
-Lorem Ipsum
+## 2 - Preparando o ambiente
 
 Links:
 - [Configurando um ambiente de desenvolvimento Django](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/development_environment)
@@ -24,9 +20,7 @@ Links:
 - [Guia definitivo para organizar meu ambiente Python](https://medium.com/welcome-to-the-django/guia-definitivo-para-organizar-meu-ambiente-python-a16e2479b753)
 - [Flask no Replit](https://replit.com/talk/learn/Flask-Tutorial-Part-1-the-basics/26272)
 
-## Introdução à linguagem Python
-
-Lorem Ipsum
+## 3 - Introdução à linguagem Python
 
 Links:
 - [Introdução - Python BR](https://python.org.br/introducao/)
@@ -230,16 +224,14 @@ Links:
 
 
 # Projetos
-## Projeto Python 1 - Game
+## Projeto Lição 1 - 3
 
-Lorem Ipsum
+Realizar um Hello World utilizando algum dos métodos abaixo:
+ - Repl.it
+ - Windows
+ - Linux
 
-## Projeto Python 2 - Mercado
-
-Lorem Ipsum
-## Projeto Python 3 - Banco
-
-Lorem Ipsum
+(OPCIONAL) Escrever um pequeno trabalho sobre Python, focado na história, curiosidade, grandes aplicações construidas em Python.
 
 
 # Bibliografia 
