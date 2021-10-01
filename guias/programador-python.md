@@ -225,7 +225,7 @@ Realizar um Hello World utilizando algum dos métodos abaixo:
  - :star: :star: Windows
  - :star: :star: :star: Linux
 
-(OPCIONAL) Escrever um pequeno trabalho sobre Python, focado na história, curiosidade, grandes aplicações construidas em Python.
+:interrobang: (OPCIONAL) Escrever um pequeno trabalho sobre Python, focado na história, curiosidade, grandes aplicações construidas em Python.
 
 
 # Bibliografia 
