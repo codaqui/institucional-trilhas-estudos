@@ -26,26 +26,20 @@ Links:
 - [Introdução - Python BR](https://python.org.br/introducao/)
 - [MeetUp Introdução ao Python - DevMedia](https://www.devmedia.com.br/meetup-introducao-ao-python/40245)
 
-## Variáveis e Tipos de Dados em Python
-
-Lorem Ipsum
+## 4 - Variáveis e Tipos de Dados em Python
 
 Links:
 - [Tipos de Dados - Algoritimos em Python](https://algoritmosempython.com.br/cursos/programacao-python/tipos-basicos/)
 - [Variaveis, Operadores e Tipos de Dados - Cadernoscicomp](https://cadernoscicomp.com.br/tutorial/introducao-a-programacao-em-python-3/python-variaveis-operadores-e-tipos-de-dados/)
 - [Variaveis - USP](https://panda.ime.usp.br/cc110/static/cc110/03-variaveis.html)
 
-## Estruturas Lógicas e Condicionais em Python
-
-Lorem Ipsum
+## 5 - Estruturas Lógicas e Condicionais em Python
 
 Links:
 - [Estruturas e Condicionais - #Treinamentos](https://www.hashtagtreinamentos.com/estruturas-condicionais-no-python)
 - [Operadores Lógicos - Caravela](https://pense-python.caravela.club/05-condicionais-e-recursividade/03-operadores-logicos.html)
 
-## Estruturas de Repetição em Python
-
-Lorem Ipsum
+## 6 - Estruturas de Repetição em Python
 
 Links:
 - [Estruturas de Repetição - DevMedia](https://www.devmedia.com.br/estruturas-de-repeticao-em-python/41551)
