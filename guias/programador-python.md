@@ -227,9 +227,9 @@ Links:
 ## Projeto Lição 1 - 3
 
 Realizar um Hello World utilizando algum dos métodos abaixo:
- - Repl.it
- - Windows
- - Linux
+ - :star: Repl.it
+ - :star: :star: Windows
+ - :star: :star: :star: Linux
 
 (OPCIONAL) Escrever um pequeno trabalho sobre Python, focado na história, curiosidade, grandes aplicações construidas em Python.
 
