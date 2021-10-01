@@ -228,6 +228,11 @@ Realizar um Hello World utilizando algum dos métodos abaixo:
 
 :interrobang: (OPCIONAL) Escrever um pequeno trabalho sobre Python, focado na história, curiosidade, grandes aplicações construidas em Python.
 
+## Projeto Lição 4
+
+Criar um repositório no Github que contenha um script em Python demonstrando todos os tipos de variavéis, a exibição e comparação dos tipos, e no fim do script um exemplo de utilização.
+
+:interrobang: (OPCIONAL) Realizar um pesquisa comparativa com outra linguagem de programação.
 
 # Bibliografia 
 
