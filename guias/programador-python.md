@@ -236,6 +236,10 @@ Criar um repositório no Github que contenha um script em Python demonstrando to
 
 ## Projeto Lição 4-5
 
+# Certificação Codaqui
+
+Você deseja obter a certificação Codaqui para trilha de desenvolvimento em Python? Confira o modelo [clicando aqui.](https://github.com/codaqui/cert-trilha-python-modelo)
+
 # Bibliografia 
 
 Inicialmente a trilha de conteúdos usada foi do curso do Geek University, e posteriormente a [@melissarr](https://github.com/melissarr) fez um trabalho de agrupamento e pesquisa dessa trilha em diversos portais. A partir desse trabalho de agrupamento e pesquisa da [@melissarr](https://github.com/melissarr): 
