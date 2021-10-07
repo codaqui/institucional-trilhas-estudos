@@ -5,6 +5,8 @@ Discussão:
 - [Atualização 1 - PR#6](https://github.com/codaqui/institucional-trilhas-estudos/pull/6)
 - [Atualização 2 - PR#7](https://github.com/codaqui/institucional-trilhas-estudos/pull/7)
 
+---
+
 ## 1 - Apresentação
 
 Links:
