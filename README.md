@@ -7,6 +7,12 @@ Os guias de estudos abaixo, foram montados junto com os participantes do projeto
 - [Programação com Python](guias/programador-python.md)
 - [Programação com JavaScript](guias/programador-js.md)
 
+## Quer participar das nossos encontros?
+
+Confira em [nosso site](https://codaqui.dev) a nossa ficha de inscrição e o processo de admissão, após isso você pode conferir os manuais abaixo, eles mostram um pouco do dia a dia dos nossos encontros.
+
+- [Manual de Participação do Primeiro Encontro](guias/primeiro-encontro.md)
+
 # Bibliografia
 
 O foco da Comunidade Codaqui, inicialmente não é a criação de conteúdo e sim a curadoria para jovens e adolescentes. Atualmente as trilhas existentes foram replicadas e incrementadas com ajuda dos seguintes sites:
