@@ -14,3 +14,7 @@ O foco da Comunidade Codaqui, inicialmente não é a criação de conteúdo e si
 - [Grasshopper](https://grasshopper.app/)
 - [W3Schools](https://w3schools.com/)
 - [Roadmap.sh](https://roadmap.sh/)
+
+# Conduta
+
+Não se esqueça de conferir o nosso código de conduta, ele vale para toda e qualquer atividade da Codaqui. [Acesse aqui!](https://github.com/codaqui/conduta)
