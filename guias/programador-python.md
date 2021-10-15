@@ -49,17 +49,13 @@ Links:
 - [Estruturas de Repetição e Condicionais - TreinaWeb](https://www.treinaweb.com.br/blog/estruturas-condicionais-e-de-repeticao-no-python)
 - [Estruturas de Repetição - #Treinamentos](https://www.hashtagtreinamentos.com/estruturas-de-repeticao-python)
 
-## Coleções Python
-
-Lorem Ipsum
+## 7 - Coleções Python
 
 Links:
 - [Coleções no Python](https://www.devmedia.com.br/colecoes-no-python-listas-tuplas-e-dicionarios/40678)
 - [Python sequências e coleções](https://www.phylos.net/2021-03-08/python-sequencias-e-colecoes/)
 
-## Funções em Python
-
-Lorem Ipsum
+## 8 - Funções em Python
 
 Links:
 - [Funções](https://algoritmosempython.com.br/cursos/programacao-python/funcoes/)
