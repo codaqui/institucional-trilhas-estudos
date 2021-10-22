@@ -232,7 +232,11 @@ Criar um repositório no Github que contenha um script em Python demonstrando to
 
 :interrobang: (OPCIONAL) Realizar um pesquisa comparativa com outra linguagem de programação.
 
-## Projeto Lição 4-5
+## Projeto Lição 5
+
+## Projeto Lição 6
+
+## Projeto Lição 7
 
 # Certificação Codaqui
 
