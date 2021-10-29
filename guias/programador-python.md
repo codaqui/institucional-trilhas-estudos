@@ -64,7 +64,7 @@ Links:
 
 Video Complementar:
 
-- [Um Programador Pleno já deveria saber usar esse Design Pattern (tutorial linha a linha)][https://youtu.be/arAz2Ff8s88?t=111]
+- [Um Programador Pleno já deveria saber usar esse Design Pattern (tutorial linha a linha)](https://youtu.be/arAz2Ff8s88?t=111)
 
 ## Comprehensions em Python
 
