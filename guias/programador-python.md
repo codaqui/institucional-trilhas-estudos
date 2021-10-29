@@ -245,6 +245,22 @@ Criar um repositório no Github que contenha um script em Python demonstrando to
 
 ## Projeto Lição 5
 
+5.1 - Dado a seguinte lista
+
+```python
+lista_de_compras = ['Banana', 'Arroz', 'Laranja']
+```
+
+Verifique se existe `Uva` na `lista_de_compras`.
+
+5.2 - Dado a seguinte lista
+
+```python
+lista_de_numeros = [50, 60, 834241542, 5433302]
+```
+
+Verifique se a soma dos números em `lista_de_numeros` é maior do que `86422542`.
+
 ## Projeto Lição 6
 
 ## Projeto Lição 7
