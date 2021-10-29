@@ -66,7 +66,7 @@ Video Complementar:
 
 - [Um Programador Pleno já deveria saber usar esse Design Pattern (tutorial linha a linha)](https://youtu.be/arAz2Ff8s88?t=111)
 
-## Comprehensions em Python
+## 9 - Comprehensions em Python
 
 Lorem Ipsum
 
@@ -74,7 +74,7 @@ Links:
 - [Comprehensions no Pyhton](https://pythonacademy.com.br/blog/list-comprehensions-no-python)
 - [Comprehension](https://pythonhelp.wordpress.com/2011/03/01/list-comprehension/)
 
-## Expressões Lambdas e Funções Integradas
+## 10 - Expressões Lambdas e Funções Integradas
 
 Lorem Ipsum
 
@@ -83,7 +83,7 @@ Links:
 - [Funções Lambda em Python](https://www.hashtagtreinamentos.com/funcoes-lambda-python)
 - [Lambda](https://pythonhelp.wordpress.com/tag/lambda/)
 
-## Debugando e Tratando erros
+## 11 - Debugando e Tratando erros
 
 Lorem Ipsum
 
@@ -92,7 +92,7 @@ Links:
 - [Entendendo melhor as mensagens de erro](https://pythonhelp.wordpress.com/2012/12/31/deu-erro-e-agora-o-que-eu-faco/)
 - [Tratamento de erros e exceções](https://cadernoscicomp.com.br/tutorial/introducao-a-programacao-em-python-3/tratamento-de-erros-e-excecoes/)
 
-## Trabalhando com Módulos Python
+## 12 - Trabalhando com Módulos Python
 
 Lorem Ipsum
 
@@ -101,7 +101,7 @@ Links:
 - [Importando módulos](https://cadernoscicomp.com.br/tutorial/introducao-a-programacao-em-python-3/modulos/)
 - [Módulos-Executando módulos como scripts](https://docs.python.org/pt-br/3/tutorial/modules.html)
 
-## Leitura e Escrita em Arquivos
+## 13 - Leitura e Escrita em Arquivos
 
 Lorem Ipsum
 
@@ -109,7 +109,7 @@ Links:
 - [Abrindo, fechando e lendo arquivos (Com exercícios)](https://panda.ime.usp.br/pensepy/static/pensepy/10-Arquivos/files.html)
 - [Como escrever e salvar arquivos JSON em Python](https://academiahopper.com.br/trabalhando-com-arquivos-em-python/)
 
-## Iteradores e Geradores Python
+## 14 - Iteradores e Geradores Python
 
 Lorem Ipsum
 
@@ -119,7 +119,7 @@ Links:
 - [Diferença entre iteradores e geradores do Python - QA Stack]( https://qastack.com.br/programming/2776829/difference-between-pythons-generators-and-iterators)
 
 
-## Decoradores em Python
+## 15 - Decoradores em Python
 
 Lorem Ipsum
 
@@ -128,7 +128,7 @@ Links:
 - [Decoradores por Python WIKI](https://wiki.python.org.br/Decoradores_Python_(Python_Decorators))
 - [Como funcionam os decoradores em Python?](https://pt.stackoverflow.com/questions/23628/como-funcionam-decoradores-em-python)
 
-## Orientação a Objetos com Python
+## 16 - Orientação a Objetos com Python
 
 Lorem Ipsum
 
@@ -137,31 +137,31 @@ Links:
 - [Python Orientado a Objetos com Framework CherryPy](https://www.devmedia.com.br/python-orientado-a-objetos-com-o-framework-cherrypy/33489)
 - [Programação Orientada a Objetos com Python](https://wiki.python.org.br/ProgramacaoOrientadaObjetoPython)
 
-## Herança e Polimorfismo
+## 17 - Herança e Polimorfismo
 
 Links:
 - [Polimorfismo - O que é e como usar?](https://www.pythonprogressivo.net/2018/11/Polimorfismo-O-que-Como-Usar-Como-fazer.html)
 - [Entendendo o Super() do Python](https://medium.com/code-rocket-blog/entendendo-o-super-do-python-da17ee8d26ca)
 - [Conceitos de Polimorfismo em POO](https://www.devmedia.com.br/conceitos-e-exemplos-polimorfismo-programacao-orientada-a-objetos/18701)
 
-## Manipulando Arquivos CSV e JSON
+## 18 - Manipulando Arquivos CSV e JSON
 
 Links:
 - [importando dados com Python](https://imasters.com.br/back-end/data-science-importando-dados-com-python)
 
-## Trabalhando com Data e Hora em Python
+## 19 - Trabalhando com Data e Hora em Python
 
 Links:
 - [Como trabalhar com data hora Python](https://vaiprogramar.com/como-trabalhar-com-data-hora-python-datetime/)
 - [Tipos básicos de data e hora](https://docs.python.org/pt-br/3/library/datetime.html)
 - [Trabalhando com datas e horas em Python](https://pythonhelp.wordpress.com/2012/07/10/trabalhando-com-datas-e-horas-em-python-datetime/)
 
-## Testes com Python
+## 20 - Testes com Python
 
 Links:
 - [Testes em Python parte I](https://dev.to/womakerscode/testes-em-python-parte-1-introducao-43ei)
 
-## Encerramento
+## 21 - Encerramento
 
 Lorem Ipsum
 
@@ -170,7 +170,7 @@ Links:
 - [Parar/terminar um script Python - ti-exame.com]( https://www.ti-enxame.com/pt/python/como-pararterminar-um-script-python-de-execucao/1043433651/)
 
 
-## Gerenciamento de Memória em Python
+## 22 - Gerenciamento de Memória em Python
 
 Lorem Ipsum
 
@@ -180,7 +180,7 @@ Links:
 
 
 
-## Checagem de Tipos em Python
+## 23 - Checagem de Tipos em Python
 
 Lorem Ipsum
 
@@ -189,8 +189,9 @@ Links:
 - [Checagem de tipos no Python - gutierri]( https://medium.com/gutierri/checagem-de-tipos-no-python-1533fe1e786f)
 
 
+## 24 - Novidades
 
-## Novidades do Python 3.8
+### Novidades do Python 3.8
 
 Lorem Ipsum
 
@@ -200,7 +201,7 @@ Links:
 - [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
 
 
-## Novidades do Python 3.9
+### Novidades do Python 3.9
 
 Lorem Ipsum
 
@@ -210,7 +211,7 @@ Links:
 - [Python 3.9 lançado com melhorias em multiprocessamento e novo analisador](https://www.edivaldobrito.com.br/python-3-9-lancado-com-melhorias-em-multiprocessamento-e-novo-analisador/)
 
 
-## Novidades do Python 3.10
+### Novidades do Python 3.10
 
 Lorem Ipsum
 
@@ -221,6 +222,7 @@ Links:
 
 
 # Projetos
+
 ## Projeto Lição 1 - 3
 
 Realizar um Hello World utilizando algum dos métodos abaixo:
