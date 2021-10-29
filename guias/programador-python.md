@@ -68,6 +68,10 @@ Links:
 - [Funções 2](https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html)
 - [Funções 3](https://www.dcc.ufrj.br/~fabiom/mab225/07func.pdf)
 
+Video Complementar:
+
+- [Um Programador Pleno já deveria saber usar esse Design Pattern (tutorial linha a linha)](https://youtu.be/arAz2Ff8s88?t=111)
+
 ## 9 - Comprehensions em Python
 
 Lorem Ipsum
@@ -191,8 +195,9 @@ Links:
 - [Checagem de tipos no Python - gutierri]( https://medium.com/gutierri/checagem-de-tipos-no-python-1533fe1e786f)
 
 
+## 24 - Novidades
 
-## 24 - Novidades do Python 3.8
+### Novidades do Python 3.8
 
 Lorem Ipsum
 
@@ -201,8 +206,7 @@ Links:
 - [O que há de novo no Python 3.8](https://docs.python.org/pt-br/3/whatsnew/3.8.html)
 - [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
 
-
-## 25 - Novidades do Python 3.9
+### Novidades do Python 3.9
 
 Lorem Ipsum
 
@@ -212,7 +216,7 @@ Links:
 - [Python 3.9 lançado com melhorias em multiprocessamento e novo analisador](https://www.edivaldobrito.com.br/python-3-9-lancado-com-melhorias-em-multiprocessamento-e-novo-analisador/)
 
 
-## 26 - Novidades do Python 3.10
+### Novidades do Python 3.10
 
 Lorem Ipsum
 
@@ -223,6 +227,7 @@ Links:
 
 
 # Projetos
+
 ## Projeto Lição 1 - 3
 
 Realizar um Hello World utilizando algum dos métodos abaixo:
@@ -243,6 +248,8 @@ Criar um repositório no Github que contenha um script em Python demonstrando to
 ## Projeto Lição 6
 
 ## Projeto Lição 7
+
+## Projeto Lição 8
 
 # Certificação Codaqui
 
