@@ -238,6 +238,8 @@ Criar um repositório no Github que contenha um script em Python demonstrando to
 
 ## Projeto Lição 7
 
+## Projeto Lição 8
+
 # Certificação Codaqui
 
 Você deseja obter a certificação Codaqui para trilha de desenvolvimento em Python? Confira o modelo [clicando aqui.](https://github.com/codaqui/cert-trilha-python-modelo)
