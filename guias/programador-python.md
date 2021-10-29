@@ -62,6 +62,10 @@ Links:
 - [Funções 2](https://panda.ime.usp.br/pensepy/static/pensepy/05-Funcoes/funcoes.html)
 - [Funções 3](https://www.dcc.ufrj.br/~fabiom/mab225/07func.pdf)
 
+Video Complementar:
+
+- [Um Programador Pleno já deveria saber usar esse Design Pattern (tutorial linha a linha)][https://youtu.be/arAz2Ff8s88?t=111]
+
 ## Comprehensions em Python
 
 Lorem Ipsum
