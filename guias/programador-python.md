@@ -8,6 +8,7 @@ Discussão:
 ---
 
 ## 1 - Apresentação
+Os links abaixo direciona você a uma breve apresentação sobre a linguagem de programação Python.
 
 Links:
 - [Introdução a Programação Python - Prof. MARCO VAZ](https://www.codingame.com/playgrounds/34774/introducao-a-programacao-python---prof--marco-vaz/apresentacao)
@@ -15,6 +16,7 @@ Links:
 - [Apresentando a Linguagem de Programação Python](https://www.slideshare.net/MayogaX/apresentando-a-linguagem-de-programao-python)
 
 ## 2 - Preparando o ambiente
+Aqui é fornecido guias para a instalação de compiladores de Python.
 
 Links:
 - [Configurando um ambiente de desenvolvimento Django](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/development_environment)
@@ -24,12 +26,14 @@ Links:
 - [WSL no Windows](https://docs.microsoft.com/pt-br/windows/wsl/install)
 
 ## 3 - Introdução à linguagem Python
+Nos links disponíveis abaixo será feita uma introdução da linguagem de programação Python.
 
 Links:
 - [Introdução - Python BR](https://python.org.br/introducao/)
 - [MeetUp Introdução ao Python - DevMedia](https://www.devmedia.com.br/meetup-introducao-ao-python/40245)
 
 ## 4 - Variáveis e Tipos de Dados em Python
+Introduzimos a linguagem de programação Python com explicações do que é variáveis e seus tipos. Pode se entender a variável como um valor que se altera.
 
 Links:
 - [Tipos de Dados - Algoritimos em Python](https://algoritmosempython.com.br/cursos/programacao-python/tipos-basicos/)
@@ -37,12 +41,14 @@ Links:
 - [Variaveis - USP](https://panda.ime.usp.br/cc110/static/cc110/03-variaveis.html)
 
 ## 5 - Estruturas Lógicas e Condicionais em Python
+Nessa explicação será abordado o que são as estruturas condicionais no Python e como utilizar. Entende-se estruturas condicionais como ações a serem executadas.
 
 Links:
 - [Estruturas e Condicionais - #Treinamentos](https://www.hashtagtreinamentos.com/estruturas-condicionais-no-python)
 - [Operadores Lógicos - Caravela](https://pense-python.caravela.club/05-condicionais-e-recursividade/03-operadores-logicos.html)
 
 ## 6 - Estruturas de Repetição em Python
+Avançando um pouco, iremos falar sobre as estruturas de repetição Python. As estruturas de repetição permitem executar um determinado trecho mais de uma vez.
 
 Links:
 - [Estruturas de Repetição - DevMedia](https://www.devmedia.com.br/estruturas-de-repeticao-em-python/41551)
@@ -199,7 +205,6 @@ Links:
 - [Python 3.8 lançado com expressões de atribuição e mais](https://www.edivaldobrito.com.br/python-3-8-lancado-com-expressoes-de-atribuicao-e-mais/)
 - [O que há de novo no Python 3.8](https://docs.python.org/pt-br/3/whatsnew/3.8.html)
 - [What's new in Python 3.8?](https://deepsource.io/blog/python-3-8-whats-new/)
-
 
 ### Novidades do Python 3.9
 
