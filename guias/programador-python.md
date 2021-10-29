@@ -5,6 +5,10 @@ Discussão:
 - [Atualização 1 - PR#6](https://github.com/codaqui/institucional-trilhas-estudos/pull/6)
 - [Atualização 2 - PR#7](https://github.com/codaqui/institucional-trilhas-estudos/pull/7)
 
+## Certificação Codaqui
+
+Você deseja obter a certificação Codaqui para trilha de desenvolvimento em Python? Confira o modelo [clicando aqui.](https://github.com/codaqui/cert-trilha-python-modelo)
+
 ---
 
 ## 1 - Apresentação
@@ -45,7 +49,7 @@ Nessa explicação será abordado o que são as estruturas condicionais no Pytho
 
 Links:
 - [Estruturas e Condicionais - #Treinamentos](https://www.hashtagtreinamentos.com/estruturas-condicionais-no-python)
-- [Operadores Lógicos - Caravela](https://pense-python.caravela.club/05-condicionais-e-recursividade/03-operadores-logicos.html)
+- [Operadores Lógicos - Caravela](https://pense-python.caravela.club/05-condicionais-e-recursividade/00-condicionais-e-recursividade.html)
 
 ## 6 - Estruturas de Repetição em Python
 Avançando um pouco, iremos falar sobre as estruturas de repetição Python. As estruturas de repetição permitem executar um determinado trecho mais de uma vez.
@@ -228,7 +232,8 @@ Links:
 
 # Projetos
 
-## Projeto Lição 1 - 3
+<details>
+ <summary>Projeto Lição 1 - 3 - Introdução</summary>
 
 Realizar um Hello World utilizando algum dos métodos abaixo:
  - :star: Repl.it
@@ -237,13 +242,19 @@ Realizar um Hello World utilizando algum dos métodos abaixo:
 
 :interrobang: (OPCIONAL) Escrever um pequeno trabalho sobre Python, focado na história, curiosidade, grandes aplicações construidas em Python.
 
-## Projeto Lição 4
+</details>
 
-Criar um repositório no Github que contenha um script em Python demonstrando todos os tipos de variavéis e operadores, a exibição e comparação dos tipos, e no fim do script um exemplo de utilização.
+<details>
+ <summary>Projeto Lição 4 - Variáveis</summary>
+
+Criar um script em Python demonstrando todos os tipos de variavéis e operadores, a exibição e comparação dos tipos, e no fim do script um exemplo de utilização.
 
 :interrobang: (OPCIONAL) Realizar um pesquisa comparativa com outra linguagem de programação.
 
-## Projeto Lição 5
+</details>
+
+<details>
+ <summary>Projeto Lição 5 - Estruturas Lógicas e Condicionais</summary>
 
 5.1 - Dado a seguinte lista
 
@@ -260,16 +271,35 @@ lista_de_numeros = [50, 60, 834241542, 5433302]
 ```
 
 Verifique se a soma dos números em `lista_de_numeros` é maior do que `86422542`.
+ 
+5.3 - Dado a seguinte lista
+
+```python
+lista_de_numeros = range(100)
+```
+
+Exiba uma sub lista dos números da `lista_de_numeros` que são pares, e outra sub lista com os impares.
+ 
+5.4 - Tempo e Data (Origem: https://pense-python.caravela.club/05-condicionais-e-recursividade/14-exercicios.html)
+
+O módulo time fornece uma função, também chamada time, que devolve a Hora Média de Greenwich na “época”, que é um momento arbitrário usado como ponto de referência. Em sistemas UNIX, a época é primeiro de janeiro de 1970.
+
+```bash
+>>> import time
+>>> time.time()
+1437746094.5735958
+```
+Escreva um script que leia a hora atual e a converta em um tempo em horas, minutos e segundos, mais o número de dias desde a época.
+
+</details>
+
+
 
 ## Projeto Lição 6
 
 ## Projeto Lição 7
 
 ## Projeto Lição 8
-
-# Certificação Codaqui
-
-Você deseja obter a certificação Codaqui para trilha de desenvolvimento em Python? Confira o modelo [clicando aqui.](https://github.com/codaqui/cert-trilha-python-modelo)
 
 # Bibliografia 
 
