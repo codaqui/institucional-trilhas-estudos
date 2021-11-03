@@ -1,5 +1,7 @@
 # Primeiro Encontro
 
+Oi, tudo bem?! Eu sou a Codaqui, uma escola criada virtualmente e movida por colaboração. Aqui neste documento você vai encontrar um passo a passo que precisamos seguir para você conseguir participar dos nossos encontros virtuais, não se esqueça que estaremos sempre no Discord para tirar qualquer dúvida.
+
 Discussão:
 - [Atualização 1 - PR#17](https://github.com/codaqui/institucional-trilhas-estudos/pull/17)
 
