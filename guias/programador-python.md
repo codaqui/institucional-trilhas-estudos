@@ -92,6 +92,7 @@ Links:
 - [Função Lambda](https://www.codingame.com/playgrounds/52499/programacao-python-intermediario---prof--marco-vaz/funcao-lambda)
 - [Funções Lambda em Python](https://www.hashtagtreinamentos.com/funcoes-lambda-python)
 - [Lambda](https://pythonhelp.wordpress.com/tag/lambda/)
+- [Guru99 - Lambda Functions Examples](https://www.guru99.com/python-lambda-function.html)
 
 ## 11 - Debugando e Tratando erros
 
