@@ -66,7 +66,7 @@ Links:
 - [Python sequências e coleções](https://www.phylos.net/2021-03-08/python-sequencias-e-colecoes/)
 
 ## 8 - Funções em Python
-Após passarmos pela Seção 7, vamos comentar sobre as Funções em Python. São blocos de códigos que só são executados quando chamados, podemos passar dados, os famosos parâmetros, e depois retornar como resuldado.
+Após passarmos pela Seção 7, vamos comentar sobre as Funções em Python. São blocos de códigos que só são executados quando chamados, podemos passar dados (os famosos parâmetros), e depois retornar alguma resposta.
 
 Links:
 - [Funções](https://algoritmosempython.com.br/cursos/programacao-python/funcoes/)
