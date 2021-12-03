@@ -60,10 +60,15 @@ Links:
 - [Estruturas de Repetição - #Treinamentos](https://www.hashtagtreinamentos.com/estruturas-de-repeticao-python)
 
 ## 7 - Coleções Python
+As coleções permitem armazenar múltiplos itens dentro de uma única unidade, que funciona como um container. Neste tópico iremos ver quais são e como usa-las.
 
 Links:
 - [Coleções no Python](https://www.devmedia.com.br/colecoes-no-python-listas-tuplas-e-dicionarios/40678)
 - [Python sequências e coleções](https://www.phylos.net/2021-03-08/python-sequencias-e-colecoes/)
+
+Vídeo Complementar rápido:
+
+- [Coleções em python - Aprenda dicionário resumidamente)](https://youtu.be/2Q4GkMQ-vzQ)
 
 ## 8 - Funções em Python
 Após passarmos pela Seção 7, vamos comentar sobre as Funções em Python. São blocos de códigos que só são executados quando chamados, podemos passar dados (os famosos parâmetros), e depois retornar alguma resposta.
