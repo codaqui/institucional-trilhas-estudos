@@ -96,8 +96,7 @@ Links:
 - [Guru99 - Lambda Functions Examples](https://www.guru99.com/python-lambda-function.html)
 
 ## 11 - Debugando e Tratando erros
-
-Lorem Ipsum
+Debugar é encontrar e corrigir erros de um programa. Nesse tópico iremos ver como tratar erros e exceções.
 
 Links:
 - [Erros de sintaxe (Syntax errors)](https://panda.ime.usp.br/panda/static/pensepy/Appendices/app_a.html)
