@@ -110,11 +110,11 @@ Links:
 
 ## 12 - Trabalhando com Módulos Python
 
-Módulos em Python são arquivos contendo definições e comandos a serem utilizados em outros programas na mesma linguagem, utilizando a <i>keyword</i> <b>import</b>. 
+Módulos em Python são arquivos contendo definições e comandos a serem utilizados em outros programas na mesma linguagem, utilizando a `keyword import`. 
 
-Conforme a introdução do segundo <i>link</i> de estudo, a importação de módulos só é possível enquanto dentro do mesmo diretório, ou se estiver em uma lista de diretórios dadas pela variável <b>sys.path</b>, começada no diretório atual e procurada na variável <b>PYTHONPATH</b> do <b>Shell</b>, por fim no diretório padrão que depende da instalação. 
+Conforme a introdução do segundo _link_ de estudo, a importação de módulos só é possível enquanto dentro do mesmo diretório, ou se estiver em uma lista de diretórios dadas pela variável `sys.path`, começada no diretório atual e procurada na variável `PYTHONPATH` do **Shell**, por fim no diretório padrão que depende da instalação. 
 
-Leia mais a respeito de <b>módulos</b> nos <i>links</i> de estudo abaixo.
+Leia mais a respeito de **módulos** nos _links_ de estudo abaixo.
 
 Links:
 - [Como criar um módulo](https://www.pythonprogressivo.net/2018/07/import-Como-Criar-Importar-Usar-Modulo-Python-Curso.html)
