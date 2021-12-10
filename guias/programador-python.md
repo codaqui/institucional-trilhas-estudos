@@ -92,7 +92,7 @@ Links:
 
 ## 10 - Expressões Lambdas e Funções Integradas
 
-Lorem Ipsum
+Uma expressão lambda permite escrever funções anônimas/sem nome usando apenas uma linha de código. As funções integradas são funções que permitem obter alguma informação a respeito de uma variável de tipo padrão ou transformar o tipo de uma variável. Neste tópico, podemos aprender mais profundamente sobre ambas.
 
 Links:
 - [Função Lambda](https://www.codingame.com/playgrounds/52499/programacao-python-intermediario---prof--marco-vaz/funcao-lambda)
