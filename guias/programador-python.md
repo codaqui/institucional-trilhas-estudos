@@ -141,7 +141,7 @@ Links:
 
 ## 15 - Decoradores em Python
 
-Lorem Ipsum
+Saindo dos iteradores e geradores, seguiremos com decoradores em python. Para simplificarmos sua ideia, podemos dizer que eles são funções que modificam a funcionalidade de uma outra função.
 
 Links:
 - [Decoradores por Python Iluminado](https://pythoniluminado.netlify.app/decoradores)
