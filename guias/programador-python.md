@@ -303,9 +303,6 @@ Escreva um script que leia a hora atual e a converta em um tempo em horas, minut
 
 </details>
 
-
-## Projeto Lição 6
-
 <details>
  <summary>Projeto Lição 7 - Coleções em Python</summary>
 
@@ -315,15 +312,16 @@ Escreva um script que leia a hora atual e a converta em um tempo em horas, minut
 lista_de_numeros = [12, 23, 34, 45]
  ```
  
- Retire o terceiro e segundo termo da `lista_de_numeros`.
+ Retire o primeiro e segundo index da `lista_de_numeros`.
  
  7.2 - Segundo a Tupla 
  
  ```python
-times_com_mundial = [Corinthians, Santos, Palmeiras, Flamengo]
+times_com_mundial = ['Corinthians', 'Santos', 'Palmeiras', 'Flamengo']
  ```
 
- Informe qual dos `times_com_mundial` não tem mundial.
+ Informe qual dos `times_com_mundial` não tem mundial. 
+ Resposta: Retire o elemento `Palmeiras`
  
  7.3 - Segundo o dicionário 
  
@@ -343,6 +341,8 @@ dados_do_aluno = {
  
  </details>
 
+
+## Projeto Lição 6
 
 ## Projeto Lição 8
 
