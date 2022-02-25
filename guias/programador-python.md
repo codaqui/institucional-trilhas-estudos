@@ -243,27 +243,6 @@ Links:
 # Projetos
 
 <details>
- <summary>Projeto Lição 1 - 3 - Introdução</summary>
-
-Realizar um Hello World utilizando algum dos métodos abaixo:
- - :star: Repl.it
- - :star: :star: Windows
- - :star: :star: :star: Linux
-
-:interrobang: (OPCIONAL) Escrever um pequeno trabalho sobre Python, focado na história, curiosidade, grandes aplicações construidas em Python.
-
-</details>
-
-<details>
- <summary>Projeto Lição 4 - Variáveis</summary>
-
-Criar um script em Python demonstrando todos os tipos de variavéis e operadores, a exibição e comparação dos tipos, e no fim do script um exemplo de utilização.
-
-:interrobang: (OPCIONAL) Realizar um pesquisa comparativa com outra linguagem de programação.
-
-</details>
-
-<details>
  <summary>Projeto Lição 5 - Estruturas Lógicas e Condicionais</summary>
 
 5.1 - Dado a seguinte lista
