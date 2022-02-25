@@ -304,10 +304,45 @@ Escreva um script que leia a hora atual e a converta em um tempo em horas, minut
 </details>
 
 
-
 ## Projeto Lição 6
 
-## Projeto Lição 7
+<details>
+ <summary>Projeto Lição 7 - Coleções em Python</summary>
+
+ 7.1 - Segundo a lista
+ 
+ ```python
+lista_de_numeros = [12, 23, 34, 45]
+ ```
+ 
+ Retire o terceiro e segundo termo da `lista_de_numeros`.
+ 
+ 7.2 - Segundo a Tupla 
+ 
+ ```python
+times_com_mundial = [Corinthians, Santos, Palmeiras, Flamengo]
+ ```
+
+ Informe qual dos `times_com_mundial` não tem mundial.
+ 
+ 7.3 - Segundo o dicionário 
+ 
+ ```python
+dados_do_aluno = {
+    'Nome': 'Milena',
+    'Curso': 'Programacao',
+    'Turno': 'tarde',
+    'Telefone': '98768932'
+}
+ ```
+ 
+ Indique qual curso Milena está fazendo.
+ 
+ Vídeo complementar para dúvidas: 
+ - [Coleções em python)](https://youtu.be/CT5nShq3I6c)
+ 
+ </details>
+
 
 ## Projeto Lição 8
 
