@@ -316,7 +316,7 @@ dados_do_aluno = {
  Indique qual curso Milena está fazendo.
  
  Vídeo complementar para dúvidas: 
- - [Coleções em python)](https://youtu.be/CT5nShq3I6c)
+ - [Coleções em python](https://youtu.be/CT5nShq3I6c)
  
  </details>
 
