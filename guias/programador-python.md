@@ -295,7 +295,7 @@ nomes = [Enderson, Luiz Fernando, Pedro, Isis, Kamily, Bianca, Mell Steissy, Cai
  
  Imprima os nomes da lista 'nomes'.
  
- <details>
+ </details>
 
 
 <details>
