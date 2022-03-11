@@ -52,7 +52,7 @@ Links:
 - [Operadores Lógicos - Caravela](https://pense-python.caravela.club/05-condicionais-e-recursividade/00-condicionais-e-recursividade.html)
 
 ## 6 - Estruturas de Repetição em Python
-Avançando um pouco, iremos falar sobre as estruturas de repetição Python. As estruturas de repetição permitem executar um determinado trecho mais de uma vez.
+Estruturas de repetição é uma estrutura lógica que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, podendo ser utilizada para repetir um mesmo processamento até que a condição seja satisfeita ou até mesmo para repetir ações semelhantes que são executadas para todos os elementos de uma lista de dados. As estruturas de repetição vão fazer alguma tarefa repetitiva de forma automática.
 
 Links:
 - [Estruturas de Repetição - DevMedia](https://www.devmedia.com.br/estruturas-de-repeticao-em-python/41551)
@@ -283,6 +283,22 @@ Escreva um script que leia a hora atual e a converta em um tempo em horas, minut
 </details>
 
 <details>
+ <summary>Projeto Lição 6 - Estruturas de Repetição em Python</summary>
+ 
+ 6.1 - Faça um programa que conte até o número 21
+ 
+ 6.2 - Dado a seguinte lista
+ 
+ ```python
+nomes = [Enderson, Luiz Fernando, Pedro, Isis, Kamily, Bianca, Mell Steissy, Caio]
+ ```
+ 
+ Imprima os nomes da lista 'nomes'.
+ 
+ <details>
+
+
+<details>
  <summary>Projeto Lição 7 - Coleções em Python</summary>
 
  7.1 - Segundo a lista
@@ -319,9 +335,6 @@ dados_do_aluno = {
  - [Coleções em python](https://youtu.be/CT5nShq3I6c)
  
  </details>
-
-
-## Projeto Lição 6
 
 ## Projeto Lição 8
 
